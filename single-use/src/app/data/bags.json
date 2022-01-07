@@ -1,0 +1,34 @@
+{       
+    "category": "Bags",
+    "defaultCategoryType": 0,
+    "categoryTypes": [
+        {
+            "typeName": "Allegro (PALL)",
+            "modelImage": "../../../assets/models/needToUploadImage"
+        }, 
+        {
+            "typeName": "Biopharm (Sartorius)",
+            "modelImage": "../../../assets/models/needToUploadImage"
+        },
+        {
+            "typeName": "Aramus (Entegris)",
+            "modelImage": "../../../assets/models/needToUploadImage"
+        }, 
+        {
+            "typeName": "Mobius (Merck/Millipore)",
+            "modelImage": "../../../assets/models/needToUploadImage"
+        },
+        {
+            "typeName": "Labtainer (ThermoFisher)",
+            "modelImage": "../../../assets/models/needToUploadImage"
+        }, 
+        {
+            "typeName": "Celsius (Sartorius)",
+            "modelImage": "../../../assets/models/needToUploadImage"
+        },
+        {
+            "typeName": "Fortem (Cytiva)",
+            "modelImage": "../../../assets/models/needToUploadImage"
+        }
+    ]
+}

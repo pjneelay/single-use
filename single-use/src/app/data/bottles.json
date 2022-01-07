@@ -1,0 +1,10 @@
+{       
+    "category": "Bottles",
+    "defaultCategoryType": 0,
+    "categoryTypes": [
+        {
+            "typeName": "Add Bottle",
+            "modelImage": "../../../assets/models/needToUploadImage"
+        }
+    ]
+}

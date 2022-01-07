@@ -1,0 +1,62 @@
+.preset-modal-image {
+  width: 100%;
+  height: 20rem;
+  border-radius: 0.3rem;
+  border: 1px solid rgba(0,0,0, 0.2);
+  box-shadow: 0 2rem 6rem rgba(0,0,0,.15);
+  margin: 2rem auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.preset-modal-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.preset-modal-scroll {
+  overflow-y: auto; 
+  position: relative;
+  /* height: 35rem; */
+}
+
+.preset-modal-form h4 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 0;
+}
+
+.preset-modal-form label {
+  font-size: 1.6rem;
+  font-weight: 700;
+}
+
+.measurement-box {
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem auto;
+}
+
+.measure-button-box {
+  border: 1px solid #d9d9d9;
+  border-radius: 6px;
+}
+
+.measure-button {
+  font-size: 1.4rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  width: 6rem;
+}  
+
+.measure-active {
+  background-color: #d9d9d9;
+  height: 100%;
+}
+
+.manifold-container .manifold .manifold-top-wrapper .configure-manifold .threekit-embed{
+  height: 100%;
+  width: 100%
+}

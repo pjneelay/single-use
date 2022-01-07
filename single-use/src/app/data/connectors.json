@@ -1,0 +1,14 @@
+{       
+    "category": "Connectors",
+    "defaultCategoryType": 0,
+    "categoryTypes": [
+        {
+            "typeName": "AseptiQuik G HT 1/4",
+            "modelImage": "../../../assets/models/needToUploadImage"
+        }, 
+        {
+            "typeName": "Kleenpak® Presto Sterile Connector 1/4\"",
+            "modelImage": "../../../assets/models/needToUploadImage"
+        }
+    ]
+}

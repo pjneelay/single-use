@@ -1,0 +1,15 @@
+{       
+    "category": "Accesories",
+    "defaultCategoryType": 0,
+    "categoryTypes": [ 
+        {
+            "typeName": "Tubing clamps, Squeeze-Fix 6 - 15 mm",
+            "attributes": 
+            {
+                "attr1":{ "label": "Display", "values" : ["Show", "Hide"], "attrUIType":"dropdown" }
+            },
+
+            "modelImage": "../../../assets/models/needToUploadImage"
+        }
+    ]
+}

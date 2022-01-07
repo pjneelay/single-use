@@ -1,0 +1,15 @@
+{       
+    "category": "Special Items",
+    "defaultCategoryType": 0,
+    "categoryTypes": [
+        {
+            "typeName": "single use pressure sensor 1/4\"",
+            "attributes": 
+            {
+                "attr1":{ "label": "Display", "values" : ["Show", "Hide"], "attrUIType":"dropdown" }
+            },
+
+            "modelImage": "../../../assets/models/needToUploadImage"
+        }
+    ]
+}

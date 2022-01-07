@@ -1,0 +1,382 @@
+{
+  "straight_fitting": {
+    "id": "06341dea-0497-4e9d-9330-40cbc72756fe",
+    "attach_points": [
+      {
+        "translation": {
+          "x": -0.12,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      }
+    ]
+  },
+  "reduced_t_fitting": {
+    "id": "b1dfb4a2-1208-4c26-b582-7c9d05cfb04a",
+    "attach_points": [
+      {
+        "translation": {
+          "x": -0.75,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      {
+        "translation":
+        {
+          "x": 0.75,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      }
+    ]
+  },
+  "x_fitting": {
+    "id": "934687fa-cd2f-4a54-b7ce-7793d3f33737",
+    "attach_points": [
+      {
+        "translation": {
+          "x": 0.22,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      {
+        "translation": {
+          "x": 0.17,
+          "y": 0,
+          "z": 0.22
+        },
+        "rotation": {
+          "x": 0,
+          "y": -90,
+          "z": 0
+        }
+      },
+      {
+        "translation": {
+          "x": 0.15,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": {
+          "x": -0.2,
+          "y": 90,
+          "z": 0
+        }
+      }      
+    ]
+  },
+  "y_fitting": {
+    "id": "29bfc793-fd9c-4b4c-a4e4-df88f393c218",
+    "attach_points": [
+      {
+        "translation": {
+          "x": 0.22,
+          "y": 0,
+          "z": -0.12
+        },
+        "rotation": {
+          "x": 0,
+          "y": 32,
+          "z": 0
+        }
+      },
+      {
+        "translation": {
+          "x": 0.22,
+          "y": 0,
+          "z": 0.12
+        },
+        "rotation": {
+          "x": 0,
+          "y": -32,
+          "z": 0
+        }
+      }
+    ]
+  },
+  "t_fitting": {
+    "id": "32449048-6f34-4c36-8fc9-ab63c427bd58",
+    "attach_points": [
+      {
+        "translation": {
+          "x": 0.1,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      {
+        "translation": {
+          "x": 0,
+          "y": 0,
+          "z": 0.1
+        },
+        "rotation": {
+          "x": 0,
+          "y": -90,
+          "z": 0
+        }
+      }
+    ]
+  },
+  "elbow_fitting": {
+    "id": "cbb9ebd3-5ba8-4ef8-8a2e-9e65c01d1d3a",
+    "attach_points": [
+      {
+        "translation": {
+          "x": 0.1,
+          "y": 0,
+          "z": 0.1
+        },
+        "rotation": {
+          "x": 0,
+          "y": -90,
+          "z": 0
+        }
+      }
+    ]
+  },
+  "straight_reducer_fitting": {
+    "id": "da4cdded-3027-4899-a155-625e6bf63e8d",
+    "attach_points": [
+      {
+        "translation": {
+          "x": -0.1,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      }
+    ]
+  },
+  "tubing": {
+    "id": "83efd0b9-aba3-481a-9e7a-fbec50f4b6fc",
+    "attach_points": [
+      {
+        "translation": {
+          "x": 10.47,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      }
+    ]
+  },
+  "bottle": {
+    "id": "35fd5411-7e8e-4f43-8a91-89263f72b27b",
+    "attach_points": [
+      {
+        "translation": {
+          "x": -10.47,
+          "y": 0,
+          "z": 0.4
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      }
+    ]
+  },
+  "filter": {
+    "id": "9f962f0f-8b5c-4f04-aef6-6091d658d0a2",
+    "attach_points": [
+      {
+        "translation": {  
+          "x": 4.9526,
+          "y": 0.01083,
+          "z": 0.0224
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      }
+    ]
+  },
+  "accessories_clamp": {
+    "id": "8d21e205-c119-4b10-a8ca-338d7c5cd802",
+    "attach_points": [
+      {
+        "translation": {
+          "x": -2,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      }
+    ]
+  },
+  "accessories_sensor": {
+    "id": "0337b000-b02d-4c79-aba4-d9d4ff36b43a",
+    "attach_points": [
+      {
+        "translation": {
+          "x": 0.4,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      }
+    ]
+  },
+  "bag": {
+    "id": "c2dbf7d6-d00c-433b-b638-1f63c658524b",
+    "attach_points": [
+      {
+        "translation": {
+          "x": -10.47,
+          "y": 0,
+          "z": 0.6
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      {
+        "translation": {
+          "x": -10.47,
+          "y": 0,
+          "z": -0.6
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      }
+    ]
+  },
+  "double_connetor": {
+    "id": "3cb09d5e-4704-484b-b3e9-893c55a04c41",
+    "attach_points": [
+      {
+        "translation": {
+          "x": 1,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      }
+    ]
+  },
+  "default_connector_ending": {
+    "id": "de65da7c-926b-41d4-8671-55b74f618f85",
+    "attach_points": [
+      {
+        "translation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      }
+    ]
+  },
+  "connector_ending": {
+    "id": "f34538a3-89fd-4b4c-80ab-0c8985d7729b",
+    "attach_points": [
+      {
+        "translation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      }
+    ]
+  },
+  "bottle_adaptor_3": {
+    "id": "dec8f9f7-00ba-4c6f-8f5f-5ecb98c6a8c8",
+    "attach_points": [
+      {
+        "translation": {
+          "x": 10.47,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      }
+    ]
+  },
+  "bottle_adaptor_2": {
+    "id": "86338001-d844-4886-97b6-2e6399bc69cf",
+    "attach_points": [
+      {
+        "translation": {
+          "x": 10.47,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      }
+    ]
+  }
+}
+

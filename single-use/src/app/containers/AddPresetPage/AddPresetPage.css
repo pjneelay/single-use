@@ -1,0 +1,121 @@
+.logo {
+  width: 14rem;
+  height: auto;
+  position: absolute;
+  top: 3rem;
+  left: 10%;
+}
+
+.icon-toggle {
+  font-size: 2rem;
+  color: var(--color-medium-gray);
+}
+
+.manifold-btn-left {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  top: 4rem;
+  left: 0 !important;
+  background-color: #fff;
+  padding: 1rem 2rem;
+  border-radius: 0.6rem;
+  box-shadow: 0 2rem 6rem rgba(0,0,0,.15);
+} 
+
+.manifold-btn-rigth {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  top: 4rem;
+  right: 0;
+  background-color: #fff;
+  padding: 1rem 2rem;
+  border-radius: 0.6rem;
+  box-shadow: 0 2rem 6rem rgba(0,0,0,.15);
+}
+
+.logo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+@media only screen and (max-width: 900px) {
+  .logo {
+    width: 10rem;
+    height: auto;
+  }
+}
+.logo {
+  width: 14rem;
+  height: auto;
+  position: absolute;
+  top: 3rem;
+  left: 10%;
+}
+
+.logo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+@media only screen and (max-width: 900px) {
+  .logo {
+    width: 10rem;
+    height: auto;
+  }
+}
+
+.container {
+  position: relative;
+  width: 100vw;
+  display: flex;
+  overflow: hidden;
+}
+
+@media only screen and (max-width: 1200px) {
+  .container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    position: relative !important;
+    margin-left: -3.5rem;
+  }
+
+  #player-container {
+    width: 100vw;
+    height: 60vh;
+    box-sizing: border-box;
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+  
+  #threekit-preview,
+  #threekit-preview-full-width {
+    width: 100vw;
+    height: 60vh;
+    display: block;
+    box-sizing: border-box;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .manifold-btn-rigth,
+  .manifold-btn-left {
+    display: none !important;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    position: relative !important;
+    margin-left: -3.5rem;
+  }
+}

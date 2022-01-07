@@ -1,0 +1,109 @@
+@media print {
+    * {
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      width: 210mm;
+      height: 295mm;
+    }
+
+    body {
+      margin: 0;
+      padding: 20px 12px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+
+      font-size: 12px;
+    }
+
+    .color-bar {
+      height: 20px;
+    }
+
+    .content-container {
+      padding: 28px 20px;
+    }
+
+    #header {
+      display: grid;
+      grid-template-columns: max-content auto max-content;
+      grid-gap: 20px;
+
+      background: #f3f3f3;
+    }
+
+    #header > div {
+      height: max-content;
+      position: relative;
+      top: 50%;
+      transform: translateY(-50%);
+
+      display: inline-block;
+      font-size: 13px;
+    }
+
+    .images img {
+      width: 360px;
+      object-fit: contain;
+    }
+
+    #project {
+      display: grid;
+      grid-template-columns: auto 300px;
+      grid-gap: 20px;
+    }
+
+    .user-data-object-item,
+    .metadata-object-item,
+    .company-data-object-item {
+      display: grid;
+      grid-template-columns: 100px auto;
+      grid-gap: 10px;
+
+      margin-bottom: 10px;
+    }
+
+    .metadata-object-item {
+      grid-template-columns: 90px auto;
+    }
+
+    .user-data-object-item > div:nth-child(1),
+    .metadata-object-item > div:nth-child(1),
+    .company-data-object-item > div:nth-child(1) {
+      color: #4a7f9e;
+    }
+
+    .user-data-object-item > div:nth-child(2),
+    .metadata-object-item > div:nth-child(2),
+    .company-data-object-item > div:nth-child(2) {
+      text-transform: uppercase;
+    }
+
+    table {
+      font-family: arial, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+      font-size: 12px;
+      border: 1px solid
+    }
+
+    td,
+    th {
+      text-align: left;
+      padding: 8px;
+      font-size: 11px;
+    }
+
+    tr:nth-child(even) {
+      background: #f3f3f3;
+    }
+  }
+  table tr th, td{
+    border: 1px solid;
+    text-align: center;
+    width: calc(100% - 10px);
+    font-size: 11px;
+  }

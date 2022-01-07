@@ -1,0 +1,53 @@
+{       
+    "category": "Fittings",
+    "defaultCategoryType": 0,
+    "categoryTypes": [
+        {
+            "typeName": "fitting T 1/4\"",
+            "attributes": 
+            {
+                "attr1":{ "label": "rotation", "values" : [0], "attrUIType":"input" }
+            },
+            "modelImage": "../../../assets/models/needToUploadImage"
+        }, 
+        {
+            "typeName": "fitting straight 3/8\"",
+            "modelImage": "../../../assets/models/needToUploadImage"
+        },
+        {
+            "typeName": "fitting X 1/4\"",
+            "modelImage": "../../../assets/models/needToUploadImage"
+        },{
+            "typeName": "fitting T reduced 3/8\"-3/8\"-1/4\" leg",
+            "attributes": {
+                "attr1":{ "label": "rotation", "values" : [0], "attrUIType":"input" }
+            },
+            "modelImage": "../../../assets/models/needToUploadImage"
+        },
+        {
+            "typeName": "fitting straight reduced 3/8\"-1/4\"",
+            "modelImage": "../../../assets/models/needToUploadImage"
+        },
+        {
+            "typeName": "fitting elbow 1/4\"",
+            "attributes":{
+                "attr1": { "label": "rotation", "values" : [0], "attrUIType":"input" }
+            },
+            "modelImage": "../../../assets/models/needToUploadImage"
+        },
+        {
+            "typeName": "fitting T 1/4\"",
+            "attributes": {
+                "attr1":{ "label": "rotation", "values" : [0], "attrUIType":"input" }
+            },
+            "modelImage": "../../../assets/models/needToUploadImage"
+        },
+        {
+            "typeName": "fitting Y 1/4\"",
+            "attributes": {
+                "attr1":{ "label": "rotation", "values" : [0], "attrUIType":"input" }
+            },
+            "modelImage": "../../../assets/models/needToUploadImage"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+.su-tooltip{
+    display: none;
+    position: absolute;
+    width: max-content;
+    height: max-content;
+}
+.su-tooltip span{
+    font-size: 14px;
+    font-weight: 700;
+}

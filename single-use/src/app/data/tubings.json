@@ -1,0 +1,22 @@
+{       
+    "category": "Tubings",
+    "defaultCategoryType": 0,
+    "categoryTypes": [
+        {
+            "typeName": "C-Flex 1/4\" ID x 3/8\" OD",
+            "attributes": 
+            {
+                "attr1":{ "label": "Length", "values" : [8], "attrUIType":"input" },
+                "attr2":{ "label": "thickness", "values" : [1], "attrUIType":"input" }
+            },
+            "modelImage": "../../../assets/items/tubings.png"
+        }, 
+        {
+            "typeName": "Pumpsil 3/8\" ID x 5/8\" OD",
+            "attributes": {
+                "attr2":{ "label": "thickness", "values" : [1], "attrUIType":"input" }
+            },
+            "modelImage": "../../../assets/models/needToUploadImage"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+.modalPopup .ant-modal-header{border-bottom: 0;}
+.modalPopup .ant-modal-title{font-size: 3rem;font-weight: 900;padding-top: 3rem;}
+.modalPopup h3 {
+  position: absolute;
+  top: 70px;
+}
+.pdfShareForm label {
+  font-weight: 900;
+  font-size: 2rem;
+}
+.pdfShareForm .ant-input, .pdfShareForm .ant-input:hover{
+  min-height: 50px;
+  background-color: #ececed;
+}
+.pdfShareForm .ant-input:focus-within{outline: 0;}
+.buttonCol{
+  text-align: center;
+  margin-top: 30px;
+}
+.ant-form-item-control-input-content button{
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    padding: 15px 20px;
+    background-color: #08411f;
+    color: #ffffff;
+    width: 85%;
+    float: right;
+    border-radius: 5px;
+}
+.ant-modal-content{padding: 0 10px;}
+

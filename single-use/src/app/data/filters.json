@@ -1,0 +1,14 @@
+{       
+    "category": "Filters",
+    "defaultCategoryType": 0,
+    "categoryTypes": [
+        {
+            "typeName": "Fluorodyne® II DFL - Kleenpak™ TC 1-1/½\"",
+            "modelImage": "../../../assets/models/needToUploadImage"
+        }, 
+        {
+            "typeName": "Opticap® XL 4 KVGLG04TT3",
+            "modelImage": "../../../assets/models/needToUploadImage"
+        }
+    ]
+}
